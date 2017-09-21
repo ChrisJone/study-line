@@ -1,12 +1,4 @@
-
-
-
-
 [TOC]
-
-
-
-
 
 ## 安全框架
 
@@ -20,6 +12,6 @@
 
 ## 批处理框架
 
-### Spring Batch	
+### Spring Batch
 
 ​	Spring Batch 是Spring官方出的批处理框架
